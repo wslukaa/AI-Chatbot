@@ -15,7 +15,12 @@ I have taken reference on the following materials and paper:
 
 <h2>Flow diagram of the chatbot</h2>
 Here is a flow diagram about the decoding and encoding process of the chatbot. More details can be found in Documentation.
+
 ![Alt text](https://user-images.githubusercontent.com/13085362/32421261-8764c4e0-c2d1-11e7-9b0f-5cd27a7a3f44.png)
+
+
+
+
 
 
 <h2>Usage</h2>
