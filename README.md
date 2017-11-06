@@ -80,7 +80,5 @@ in the checkpoints folder.
 
 If the mode is chat, you'll go into the interaction mode with the bot.
 
-By default, all the conversations you have with the chatbot will be written
-into the file output_convo.txt in the processed folder.
 
 >>>>>>>
