@@ -53,6 +53,16 @@ $ flask run
 Step 5:
 Open your browser and enter "localhost:5000". Now, you can start chatting with the bot.
 
+<h2> Demo </h2>
+![Alt text](https://user-images.githubusercontent.com/13085362/32421405-3af3280c-c2d3-11e7-99c0-c7281c8bc44d.png)
+
+
+
+
+
+
+
+
 
 If mode is train, then you train the chatbot. By default, the model will
 restore the previously trained weights (if there is any) and continue
