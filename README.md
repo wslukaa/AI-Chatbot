@@ -1,5 +1,6 @@
 # AI chatbot
 <h1>Bank of Paribas AI interview assignment -- AI chatbot</h1>
+<h2> Author: Wing San Luk, Winson </h2>
 <h2>Introduction</h2>
 
 This is a neural chatbot using sequence to sequence model with attentional decoder. This is a fully functional chatbot.
