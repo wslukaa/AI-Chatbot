@@ -40,7 +40,7 @@ $ export FLASK_APP=serve.py
 $ flask run
 ```
 Step 5:
-Enter "localhost:5000". Now, you can start chatting with the bot.
+Open your browser and enter "localhost:5000". Now, you can start chatting with the bot.
 
 
 If mode is train, then you train the chatbot. By default, the model will
