@@ -1,0 +1,6 @@
+model_checkpoint_path: "chatbot-20600"
+all_model_checkpoint_paths: "chatbot-20200"
+all_model_checkpoint_paths: "chatbot-20300"
+all_model_checkpoint_paths: "chatbot-20400"
+all_model_checkpoint_paths: "chatbot-20500"
+all_model_checkpoint_paths: "chatbot-20600"
