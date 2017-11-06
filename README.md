@@ -3,6 +3,7 @@
 <h2>Introduction</h2>
 
 This is a neural chatbot using sequence to sequence model with attentional decoder. This is a fully functional chatbot.
+Python 3+ is supported with this chatbot.
 
 I have taken reference on the following materials and paper:
 
@@ -39,7 +40,7 @@ Unzip it
 *Modify the project directory in config.py*
 
 *Step 2: python data.py*
-<br>This will do all the pre-processing for the Cornell dataset.
+<br>This will do all the pre-processing for the Cornell movie subtitles dataset.
 
 *Step 3: python train.py*
 <br>This will start training the model with the pre-processed data.
