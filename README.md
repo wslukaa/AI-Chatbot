@@ -4,7 +4,7 @@
 
 This is a neural chatbot using sequence to sequence model with attentional decoder. This is a fully functional chatbot.
 
-This is based on:
+I have taken reference on the following materials and paper:
 
 1. Google Translate Tensorflow model https://github.com/tensorflow/models/blob/master/tutorials/rnn/translate/
 2. Sequence to sequence model by Cho et al.(2014)
